@@ -1,4 +1,4 @@
 cloudbees-demo
 ==============
 
-demo for test in cloud bees
+demo for test in cloudbees
