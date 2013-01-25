@@ -11,8 +11,6 @@ import javax.servlet.http.HttpServletResponse;
 
 @WebServlet(urlPatterns="/hellocloudbees")
 public class HelloCloudBeesServlet extends HttpServlet {
-
-	
 	
 	
 	
