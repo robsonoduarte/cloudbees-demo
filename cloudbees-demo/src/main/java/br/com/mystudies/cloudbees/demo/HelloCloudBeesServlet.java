@@ -21,7 +21,7 @@ public class HelloCloudBeesServlet extends HttpServlet {
 		PrintWriter printWriter = response.getWriter();
 		
 		printWriter.print("<h1>");
-		printWriter.print("Hello CloudBees !");
+		printWriter.print("Hello CloudBees !!");
 		printWriter.print("</h1>");
 	}
 	
